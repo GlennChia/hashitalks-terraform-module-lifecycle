@@ -1,0 +1,6 @@
+tf_organization_name                           = "glenn-hcp-premium"
+tf_url                                         = "https://app.terraform.io"
+organization_membership_email_workspace_v1_0_0 = "glenn.chia+notifications100@hashicorp.com"
+organization_membership_email_workspace_v1_1_0 = "glenn.chia+notifications110@hashicorp.com"
+organization_membership_email_workspace_v2_0_0 = "glenn.chia+notifications200@hashicorp.com"
+github_token                                   = "replace"
